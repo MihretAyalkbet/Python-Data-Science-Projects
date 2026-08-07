@@ -1,6 +1,4 @@
-# About the repo   
-
-# Repository Overview
+ # Repository Overview
 
 This repository contains the projects I completed during a two-month freelancing engagement. Throughout this period, I worked on a variety of Python and data-related tasks, applying skills in data processing, analysis, automation, and problem-solving to meet client requirements.
 
